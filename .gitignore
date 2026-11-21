@@ -4,7 +4,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Datadata/
+# Data
+data/
 data/raw/
 data/processed/
 *.tsv.gz
