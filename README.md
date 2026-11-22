@@ -20,6 +20,7 @@ The data is not stored in this repository. See [Reproducing the analysis](#repro
 ├── data/
 │   ├── raw/          # GDC downloads (not in Git)
 │   └── processed/    # merged matrices (not in Git)
+├── metadata/         # sample sheet: which GDC files were analyzed
 ├── notebooks/        # exploration and figures
 ├── src/              # reusable pipeline code
 ├── results/
